@@ -1,1 +1,12 @@
-# Module-Eight-Journal
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
+The client was The Gaming Room, the software was called "Draw it or Lose it" which was a game. Their software requirements were to create a web-based game application that was able to be scaled and run on multiple operating systems.
+
+What did you do particularly well in developing this documentation? I believe I did well in explaining the necessities of the application and what would be the best recommendations to go about developing the application and giving them an operating system that may satisfy their needs or wants for the game.    
+
+What about the process of working through a design document did you find helpful when developing the code? I thought the view of having things documented in regard towards the development of the game on a more of a precise scale offered better insight as to what steps are needed to start the process. 
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? I think I would like to revise the evaluation chart, by offering a more in depth look into what makes each operating system unique. 
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing? I game a lot so I have a little insight. I enjoy making different creations and projects in Blender, Unity, and a little in Unreal engine with friends. So I believe i have a decent understanding as to what user looks for in a game like "Draw it or Lose it". The user's needs are of the utmost importance when designing the game because the game needs to be user friendly and not counter intuitive that may sway users away.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application? I used my own and friends' experience to design the software. I genuinely love games which allow me to take into account the desired and less desirable qualities for design. In the future I would like to study more in the process of game software development. Gaining experience and familiarity in the subject will allow me to gauge what users may potentially look for in an application to prevent things that may want to be avoided.
